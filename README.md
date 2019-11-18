@@ -13,31 +13,38 @@ Many thanks in advance.
 
 Following components are included:
 
-1. TSFBgPanel
+TSFBgPanel
+----------
 
 A background panel to which a background picture can be added. The background image fills the entire surface.
 
-2. TSFCheckImageListBox
+TSFCheckImageListBox
+--------------------
 
 A list box with choice (checkboxes for individual items) and the option to assign icons to the items.
 
-3. TSFLabeledImage 
+TSFLabeledImage
+---------------
 
 An image component with which images in the application can be fixed to each other. When changing the size or position of the main picture, the subordinate pictures and labels adapt accordingly. As a result, an overall picture can be simulated, in which, however, actions for individual elements (pictures or labels) can be reacted separately.
 Furthermore, pictures can also be colored.
 
-4. TSFImageLabel 
+TSFImageLabel
+-------------
 
 Labels that can be positioned in a picture. See also TSFLabeledImage
 
-5. TSFLabeledColorPanel
+TSFLabeledColorPanel
+--------------------
 
 A small bar chart with a description of the individual elements.
 
-6. TSFRotateText
+TSFRotateText
+-------------
 
 A component that allows text to be rotated in all directions using the Font.Orientation property.
 
-7. TSFImageHelper
+TSFImageHelper
+--------------
 
 A helper class for loading images whose format is unknown.
