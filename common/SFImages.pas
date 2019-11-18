@@ -1,3 +1,16 @@
+//
+//   Title:         SFImages
+//
+//   Description:   helper for images, p. e. detect image formats
+//
+//   Created by:    Frank Huber
+//
+//   Copyright:     Frank Huber - The SoftwareFactory -
+//                  Alberweilerstr. 1
+//                  D-88433 Schemmerhofen
+//
+//                  http://www.thesoftwarefactory.de
+//
 unit SFImages;
 
 interface

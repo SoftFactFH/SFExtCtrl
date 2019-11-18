@@ -1,3 +1,16 @@
+//
+//   Title:         SFExtCtrlReg
+//
+//   Description:   register controls
+//
+//   Created by:    Frank Huber
+//
+//   Copyright:     Frank Huber - The SoftwareFactory -
+//                  Alberweilerstr. 1
+//                  D-88433 Schemmerhofen
+//
+//                  http://www.thesoftwarefactory.de
+//
 unit SFExtCtrlReg;
 
 interface

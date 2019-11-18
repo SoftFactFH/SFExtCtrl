@@ -101,6 +101,9 @@
         <DCCReference Include="..\common\SFExtCtrlGlobalFunctions.pas"/>
         <DCCReference Include="..\common\SFImages.pas"/>
         <DCCReference Include="..\common\SFExtCtrlReg.pas"/>
+        <None Include="ReadMe.txt"/>
+        <None Include="License_De.txt"/>
+        <None Include="License_En.txt"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
